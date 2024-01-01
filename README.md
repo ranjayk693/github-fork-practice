@@ -26,6 +26,7 @@ Installation via git clone or download this repo.
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+5. Keep learnig and keep exploring 
 
 ## Contact
 
